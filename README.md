@@ -92,4 +92,3 @@ http://localhost:3000/mygoogle → redirects to https://www.google.com
 
 This project is licensed under the MIT License.
 
-💡 Pro Tip: Postman me test karte waqt Headers me sirf Content-Type: application/json set karo. Baaki headers Postman khud bhejta hai
